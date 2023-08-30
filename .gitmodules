@@ -1,0 +1,9 @@
+[submodule "tracecompass-incubator-opentelemetry-support"]
+	path = tracecompass-incubator-opentelemetry-support
+	url = https://github.com/dorsal-lab/tracecompass-incubator-opentelemetry-support.git
+[submodule "tracecompass-opentelemetry-support"]
+	path = tracecompass-opentelemetry-support
+	url = https://github.com/dorsal-lab/tracecompass-opentelemetry-support.git
+[submodule "tracecompass-test-traces"]
+	path = tracecompass-test-traces
+	url = https://git.eclipse.org/r/tracecompass/tracecompass-test-traces.git
